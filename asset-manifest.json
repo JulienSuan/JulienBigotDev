@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/JulienBigotDev/static/css/main.5b5f166a.css",
+    "main.css": "/JulienBigotDev/static/css/main.526d1a99.css",
     "main.js": "/JulienBigotDev/static/js/main.224b4993.js",
     "static/js/787.28cb0dcd.chunk.js": "/JulienBigotDev/static/js/787.28cb0dcd.chunk.js",
     "static/media/zelda.gif": "/JulienBigotDev/static/media/zelda.4c02d3d3086f28842913.gif",
@@ -25,12 +25,12 @@
     "static/media/DINPro-Light.woff2": "/JulienBigotDev/static/media/DINPro-Light.601c8d1f6716b10c8c4d.woff2",
     "static/media/PPCasa-Regular.woff2": "/JulienBigotDev/static/media/PPCasa-Regular.44cb294deefb26d7e38c.woff2",
     "index.html": "/JulienBigotDev/index.html",
-    "main.5b5f166a.css.map": "/JulienBigotDev/static/css/main.5b5f166a.css.map",
+    "main.526d1a99.css.map": "/JulienBigotDev/static/css/main.526d1a99.css.map",
     "main.224b4993.js.map": "/JulienBigotDev/static/js/main.224b4993.js.map",
     "787.28cb0dcd.chunk.js.map": "/JulienBigotDev/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b5f166a.css",
+    "static/css/main.526d1a99.css",
     "static/js/main.224b4993.js"
   ]
 }
