@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/JulienBigotDev/static/css/main.5b5f166a.css",
+    "main.js": "/JulienBigotDev/static/js/main.224b4993.js",
+    "static/js/787.28cb0dcd.chunk.js": "/JulienBigotDev/static/js/787.28cb0dcd.chunk.js",
+    "static/media/zelda.gif": "/JulienBigotDev/static/media/zelda.4c02d3d3086f28842913.gif",
+    "static/media/lol.gif": "/JulienBigotDev/static/media/lol.bbccc267f8ea271ad07b.gif",
+    "static/media/moon.gif": "/JulienBigotDev/static/media/moon.270960462442245b156a.gif",
+    "static/media/overwatch.gif": "/JulienBigotDev/static/media/overwatch.a5d64a5382a1002ce6ee.gif",
+    "static/media/skin.gif": "/JulienBigotDev/static/media/skin.92402d02a4b15f9016cd.gif",
+    "static/media/git.gif": "/JulienBigotDev/static/media/git.967d82286973ae693709.gif",
+    "static/media/todo.gif": "/JulienBigotDev/static/media/todo.13389d819333a09c5e35.gif",
+    "static/media/overwatch.png": "/JulienBigotDev/static/media/overwatch.efb6e4b1484c49b451ed.png",
+    "static/media/moon.png": "/JulienBigotDev/static/media/moon.512644381d0b70361c57.png",
+    "static/media/zelad.png": "/JulienBigotDev/static/media/zelad.908cac9dd0eb6a02879e.png",
+    "static/media/carrousel-brad.jpg": "/JulienBigotDev/static/media/carrousel-brad.e284c205490dc1af0b2e.jpg",
+    "static/media/lol.png": "/JulienBigotDev/static/media/lol.db1c2c46d5a61ac3cddb.png",
+    "static/media/git.png": "/JulienBigotDev/static/media/git.51eda28ea77133108ba3.png",
+    "static/media/Zelda-Link-PNG-Transparent.png": "/JulienBigotDev/static/media/Zelda-Link-PNG-Transparent.1c9281bfa5ced1ada859.png",
+    "static/media/todo.png": "/JulienBigotDev/static/media/todo.db339b3e3aadae70ff29.png",
+    "static/media/Radio Mirrors Edge Sound Effects HD (mp3cut.net).mp3": "/JulienBigotDev/static/media/Radio Mirrors Edge Sound Effects HD (mp3cut.net).2b66e750727f8833ef5c.mp3",
+    "static/media/DINPro.woff2": "/JulienBigotDev/static/media/DINPro.560be2f6f935581d7d62.woff2",
+    "static/media/DINPro-Bold.woff2": "/JulienBigotDev/static/media/DINPro-Bold.1db735ab632d30e6be91.woff2",
+    "static/media/DINPro-Black.woff2": "/JulienBigotDev/static/media/DINPro-Black.9f2d8ca3fa6adffeaa76.woff2",
+    "static/media/DINPro-Light.woff2": "/JulienBigotDev/static/media/DINPro-Light.601c8d1f6716b10c8c4d.woff2",
+    "static/media/PPCasa-Regular.woff2": "/JulienBigotDev/static/media/PPCasa-Regular.44cb294deefb26d7e38c.woff2",
+    "index.html": "/JulienBigotDev/index.html",
+    "main.5b5f166a.css.map": "/JulienBigotDev/static/css/main.5b5f166a.css.map",
+    "main.224b4993.js.map": "/JulienBigotDev/static/js/main.224b4993.js.map",
+    "787.28cb0dcd.chunk.js.map": "/JulienBigotDev/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b5f166a.css",
+    "static/js/main.224b4993.js"
+  ]
+}
